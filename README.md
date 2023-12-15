@@ -1,1 +1,1 @@
-# Ex-06-Book-Cover-Design
+# Ex-08-Book-Cover-Design
